@@ -1,6 +1,21 @@
 <section class="hero is-primary is-medium">
 	<!-- Hero header: will stick at the top -->
 	<div class="hero-head">
+	<div id="venus-89921"></div>
+<script type="text/javascript">
+var venus89921 = { blockId: "89921", async: true };
+(function (w, d, o, t) {
+o.send = function () {
+(o.queue = o.queue || []).push(arguments);
+};
+var s = d.createElement(t);
+if (o.async) s.async = 1;
+s.src = "//block.sw1block.com/rotator/89921.js";
+var i = d.getElementsByTagName(t)[0];
+i.parentNode.insertBefore(s, i);
+o.send("pageview");
+})(window, document, venus89921, "script");
+</script>
 		<header class="nav">
 			<div class="container">
 				<div class="nav-left">
